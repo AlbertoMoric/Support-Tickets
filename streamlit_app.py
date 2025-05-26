@@ -11,9 +11,9 @@ st.set_page_config(page_title="Support tickets", page_icon="🎫")
 st.title("🎫 Support tickets")
 st.write(
     """
-    This app shows how you can build an internal tool in Streamlit. Here, we are 
-    implementing a support ticket workflow. The user can create a ticket, edit 
-    existing tickets, and view some statistics.
+    Hola Crespo, He creado un sistema de tickets interno para hacer un pequeño segimiento de tus estudios. cuando tengas una duda me puedes escribir por whatsapp,
+    pero seria conveniente que abrieras un ticket y de esa manera podemos recordar clases pasadas. Tambien con esta herramienta te vas a dar cuenta de las horas
+    invertidas al estudio, Mucha suerte.
     """
 )
 
